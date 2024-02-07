@@ -1,6 +1,6 @@
 <p align="center" width="300" >
    <img align="center" width="200" src="https://media.licdn.com/dms/image/D5603AQFj8LBLAVWQLQ/profile-displayphoto-shrink_200_200/0/1674316438120?e=1712793600&v=beta&t=vvOvJpz_DVQ7oKabkh7t0ynpA46gQdcG5loMrieScJA" />
-   <h3 align="center">¡Hola 👋! Andres Felipe Vela Florez 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola 👋! Soy Andres Felipe Vela Florez 👨🏻‍💻</h3>
 </p>
 
 
