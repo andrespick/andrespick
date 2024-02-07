@@ -6,6 +6,16 @@
 
 Soy un estudiante de ingeniería en sistemas residente en Cali, Colombia, con experiencia como agente de call center. Mi transición refleja mi pasión por la tecnología y el código abierto. En mi portafolio comparto proyectos y contribuciones que resaltan mi progreso y compromiso con el aprendizaje continuo durante este apasionante recorrido profesional.
 
+## 📋Proyectos
+
+### Copia-google
+Copia de la página principal de Google en HTML y CSS vanilla como ejercicio de un curso de Platzi.
+**https://andrespick.github.io/copia-google/#**
+
+### QR-GENERATOR
+Generador de códigos QR, proyecto hecho en Python para aprender las librerías Qrcode, Pillow y Tkinter.
+https://github.com/andrespick/QR-GENERATOR
+
 ## 🛠 Skills
 HTML, CSS, Python, MySQL, Git, GitHub, 
 
