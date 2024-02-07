@@ -1,10 +1,10 @@
 
 ## Hola, mi nombre es Andres Felipe Vela Florez👋
 
-Estudiante de programacion autodidacta
+Soy un estudiante de ingeniería en sistemas residente en Cali, Colombia, con experiencia como agente de call center. Mi transición refleja mi pasión por la tecnología y el código abierto. En mi portafolio comparto proyectos y contribuciones que resaltan mi progreso y compromiso con el aprendizaje continuo durante este apasionante recorrido profesional.
 
 ## 🛠 Skills
-HTML, CSS, Phython
+HTML, CSS, Python, MySQL, Git, GitHub, 
 
 
 ## 🔗 Links
